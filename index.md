@@ -12,7 +12,7 @@ Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**. M
 ---
 
 ## Navegación rápida
-- [Ver Galería de Proyectos / Imágenes](./gallery)
+- [Ver Juegos Favoritos / Imágenes](./gallery)
 - [Documentación de ejemplo (Dillinger)](./dillinger_sample)
 
 ---

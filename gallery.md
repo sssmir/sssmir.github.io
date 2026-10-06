@@ -2,12 +2,12 @@
 layout: page
 title: Gallery
 ---
-### 🖥️ Esquemas e Infraestructura
+### 🖥️ Videojuegos Favoritos
 
-| Proyecto / Laboratorio | Descripción | Imagen |
+| Videojuego | Descripción | Imagen |
 | :--- | :--- | :---: |
-| **Configuración de Red** | Diagramas e implementación de servidores | ![Red](images/ejemplo1.png) |
-| **Sistemas Operativos** | Entorno virtualizado en VirtualBox | ![VirtualBox](images/ejemplo2.png) |
+| **Inazuma Eleven** | RPG de fútbol de la Nintendo DS | ![Inazuma Eleven](images/inazumaeleven.jpg) |
+| **Xenogears** | JRPG de combate por turnos para la PS1 | ![Xenogears](images/xenogears.jpg) |
 
 
 ---
