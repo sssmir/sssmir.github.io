@@ -2,13 +2,21 @@
 layout: home
 title: Home
 ---
-# About Me
+## 💻 Sobre mí
+Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**. Me apasiona la tecnología, la administración de servidores, el diseño de redes y el desarrollo de soluciones informáticas.
 
-Hello! This is my new website created with. 
+- **Sistemas:** Windows Server, Ubuntu Server, VirtualBox.
+- **Redes & Web:** HTML/CSS, direccionamiento IP, permisos NTFS, configuraciones RAID.
+- **Aficiones:** Videojuegos (JRPG, sandbox y estrategia) y tecnología en general.
 
-### My Goals:
-* Learn how to use Markdown.
-* Build a cool documentation site.
-* Keep things simple!
+---
 
-MD makes it really easy to turn these notes into a website.
+## Navegación rápida
+- [Ver Galería de Proyectos / Imágenes](./gallery)
+- [Documentación de ejemplo (Dillinger)](./dillinger_sample)
+
+---
+
+## Contacto
+Si quieres ponerte en contacto conmigo o revisar mis proyectos:
+- **GitHub:** [sssmir](https://github.com/sssmir)

@@ -2,10 +2,14 @@
 layout: page
 title: Gallery
 ---
-# Image Example Page
+### 🖥️ Esquemas e Infraestructura
 
-Here is a picture I added to my project:
+| Proyecto / Laboratorio | Descripción | Imagen |
+| :--- | :--- | :---: |
+| **Configuración de Red** | Diagramas e implementación de servidores | ![Red](images/ejemplo1.png) |
+| **Sistemas Operativos** | Entorno virtualizado en VirtualBox | ![VirtualBox](images/ejemplo2.png) |
 
-![Alt text: A description of the image](images/image.jpg)
 
-> **Note:** Make sure the filename in the code matches your actual file (e.g., .jpg, .png, or .gif).
+---
+
+[← Volver al inicio](./)
