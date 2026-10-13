@@ -2,7 +2,7 @@
 layout: home
 title: Home
 ---
-## 💻 Sobre mí
+## Sobre mí
 Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**. Me apasiona la tecnología, la administración de servidores, el diseño de redes y el desarrollo de soluciones informáticas.
 
 - **Sistemas:** Windows Server, Ubuntu Server, VirtualBox.
